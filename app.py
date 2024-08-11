@@ -76,7 +76,7 @@ def predict_sign_from_video(video_path):
     
 
     
-# Define examples
+# Define exampless
 
 examples = [
         ['videos/qwe.mp4'],
